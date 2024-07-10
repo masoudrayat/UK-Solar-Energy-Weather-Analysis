@@ -20,7 +20,7 @@ This repository includes three Jupyter notebooks that perform data analytics and
 
 ## Notebooks Description
 
-### Two Week Forecast.ipynb
+### Two_Week_Forecast.ipynb
 
 This notebook focuses on retrieving forecast weather data from a public API for further analysis. The steps in this notebook include:
 
